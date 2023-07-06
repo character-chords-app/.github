@@ -1,5 +1,5 @@
 # Character Chords
-![lynk_up](https://github.com/LYNK-UP-APP/.github/assets/116698937/dc0f4910-32f9-4e3a-a784-4ba67c4497cc)
+![character chords](https://github.com/hwryan12/Quote-Editor/assets/116698937/880f8b27-81be-44d3-a6e8-6306aa36ea2f)
 
 ## Introduction
 
